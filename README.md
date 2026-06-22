@@ -1,8 +1,8 @@
-# ProfileBook-Addon
+# ProfileBook-Addon ![Version](https://img.shields.io/badge/version-v1.0.1-blue)
 
 > Minecraft Bedrock Edition용 플레이어 프로필 애드온
 
-![Version](https://img.shields.io/badge/version-v1.0.1-blue)
+[Download Latest Release](../../releases/latest)
 
 ## 소개
 
