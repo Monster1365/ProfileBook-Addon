@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "ProfileBook resource-pack made by KAI1365 - v1.0.1",
+    "name": "ProfileBook-v1.0.1 [RP]",
+    "uuid": "047c933c-5cd6-4cba-8154-dc2d9c351103",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "ProfileBook resource-pack made by KAI1365 - v1.0.1",
+      "type": "resources",
+      "uuid": "430196fa-5d51-4d56-993c-37f24e45cdac",
+      "version": [1, 0, 1]
+    }
+  ]
+}

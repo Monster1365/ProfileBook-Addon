@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "ProfileBook behavior-pack made by KAI1365 - v1.0.1",
+    "name": "ProfileBook-v1.0.1 [BP]",
+    "uuid": "d6907ba9-c641-4179-960c-e5b20d2bea07",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "ProfileBook behavior-pack made by KAI1365 - v1.0.1",
+      "type": "data",
+      "uuid": "c2b06ec3-69fd-4187-a2d5-aeb080d75785",
+      "version": [1, 0, 1]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c6258a6e-8c6f-4bab-aad8-1b47cc9ef911",
+      "version": [1, 0, 1],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "047c933c-5cd6-4cba-8154-dc2d9c351103",
+      "version": [1, 0, 1]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ]
+}

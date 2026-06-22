@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Profile Pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "profile_book": {
+      "textures": "textures/items/profile_book"
+    },
+    "op_profile_book": {
+      "textures": "textures/items/op_profile_book"
+    }
+  }
+}
